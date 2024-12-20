@@ -1,0 +1,41 @@
+h3 {text-transform: uppercase;
+color: orange;}
+
+input {display: block;
+margin: 5px;}
+
+#email:hover {background-color: orange;}
+
+#instagram:hover {background-color: orange;}
+
+#website:hover {background-color: orange;}
+
+h3:hover {color: red;}
+
+input {border-radius: 8px;}
+
+#submit {cursor: pointer;}
+
+#submit:hover  {color: goldenrod;}
+
+#email {background-image: url(../form/img/email.png);
+background-size: 15px;
+background-position: 8px;
+background-repeat: no-repeat;
+padding: 5px 5px 5px 30px;}
+
+
+#instagram {background-image: url(../form/img/instagram.png);
+background-size: 15px;
+background-position: 8px;
+background-repeat: no-repeat;
+padding: 5px 5px 5px 30px;}
+
+#website {background-image: url(../form/img/WEBSITE.png);
+    background-size: 15px;
+    background-position: 8px;
+    background-repeat: no-repeat;
+    padding: 5px 5px 5px 30px;}
+
+h3 {text-align: center;
+max-width: 220px;}
